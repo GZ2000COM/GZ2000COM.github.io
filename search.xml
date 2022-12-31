@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2022/12/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/12/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="搭建博客网站心得"><a href="#搭建博客网站心得" class="headerlink" title="搭建博客网站心得"></a>搭建博客网站心得</h2><p>这是我的第一篇博客，这几天看着各个大佬的教程搭建好了我的第一个博客网站，使我学到了许多之前没有接触过的芝士，真的非常感谢各位大佬的分享。</p><h2 id="我为什么要搭建一个博客网站"><a href="#我为什么要搭建一个博客网站" class="headerlink" title="我为什么要搭建一个博客网站"></a>我为什么要搭建一个博客网站</h2><p>身为一个计算机专业的大学生，搭建一个属于自己的网站一直都是自己的一个心愿吧，就是特别感兴趣，而且这里还可以分享自己的学习、工作和日常，可以当作一个记录和分享的平台，挺不错的。</p><p>最后，感谢你的观看！</p><p>END</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/12/29/hello-world/"/>
       <url>/2022/12/29/hello-world/</url>
