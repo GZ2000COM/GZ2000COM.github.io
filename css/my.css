@@ -1,1 +1,13 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*顶栏美化*/
+#nav .site-page {
+    font-size: 0.79em; /*字体大小*/
+    letter-spacing: 3px; /*字体间距*/
+    font-weight: 600; /*字体粗细*/
+  }
+  
+#nav {
+    height: 70px; /*顶栏高度调整*/
+  }
+#page-header.nav-fixed #nav {
+    top: -70px; /*顶栏调整空缺补齐*/
+  }
