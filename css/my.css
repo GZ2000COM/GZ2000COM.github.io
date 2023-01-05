@@ -1,13 +1,17 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*顶栏美化*/
-#nav .site-page {
-    font-size: 0.79em; /*字体大小*/
-    letter-spacing: 3px; /*字体间距*/
-    font-weight: 600; /*字体粗细*/
-  }
-  
-#nav {
-    height: 70px; /*顶栏高度调整*/
-  }
-#page-header.nav-fixed #nav {
-    top: -70px; /*顶栏调整空缺补齐*/
-  }
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 返回顶部 */
+button#go-up #percent {
+  display: none;
+  font-weight: bold;
+  font-size: 15px !important;
+}
+button#go-up span {
+  font-size: 12px !important;
+  margin-right: -1px;
+}
+/* 鼠标滑动到按钮上时显示返回顶部图标 */
+button#go-up:hover i {
+  display: block !important;
+}
+button#go-up:hover #percent {
+  display: none !important;
+}
